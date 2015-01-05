@@ -1,0 +1,70 @@
+/* line 48, 02.scss */
+* {
+  font-weight: normal;
+  text-decoration: none;
+  color: black; }
+
+/* line 54, 02.scss */
+body {
+  max-width: 1200px;
+  width: 100%;
+  margin: 0px auto;
+  font-size: 100%;
+  box-shadow: 0px 0px 30px lightgrey; }
+
+/* line 62, 02.scss */
+header {
+  max-width: 1200px;
+  width: 100%;
+  height: 120px;
+  line-height: 120px;
+  margin: 0px auto;
+  display: block; }
+
+/* line 71, 02.scss */
+#header {
+  max-width: 1200px;
+  width: 100%;
+  margin: 0px auto;
+  position: fixed;
+  display: -webkit- box;
+  display: -moz- box;
+  display: -ms- box;
+  display: -o- box;
+  display: box;
+  border-bottom: 1px solid rgba(240, 240, 240, 0.7);
+  background-color: white;
+  z-index: 11; }
+
+/* line 82, 02.scss */
+#menu {
+  max-width: 120px;
+  width: 10%;
+  text-align: center;
+  display: block; }
+  /* line 87, 02.scss */
+  #menu img {
+    width: 20px;
+    height: auto;
+    vertical-align: middle; }
+
+/* line 93, 02.scss */
+#title {
+  max-width: 960px;
+  width: 80%;
+  font-family: "Futura", "Arial", "sans-serif";
+  font-size: 1.7135em;
+  font-variant: small-caps;
+  text-align: center; }
+
+/* line 101, 02.scss */
+#mail {
+  max-width: 120px;
+  width: 10%;
+  text-align: center;
+  display: block; }
+  /* line 106, 02.scss */
+  #mail img {
+    width: 20px;
+    height: auto;
+    vertical-align: middle; }
